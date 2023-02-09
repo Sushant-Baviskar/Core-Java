@@ -4,6 +4,7 @@ public class PassingArrayToMethod {
 	
 	static void value(int[][] arr)
 	{
+	 
 		for(int[] i:arr)
 		{
 			for(int j:i)

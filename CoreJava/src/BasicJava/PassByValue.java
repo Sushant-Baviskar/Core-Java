@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 public class PassByValue {
 	
-	public int getValues(int n)
+	public int getValues(int n1)
 	{
-		n=n+10;
-		return n;
+	
+		n1=n1+10;
+		return n1;
 	}
 	public static void main(String[] args)
 	{
